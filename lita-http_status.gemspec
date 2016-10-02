@@ -3,9 +3,9 @@ Gem::Specification.new do |spec|
   spec.version       = "0.1.0"
   spec.authors       = ["OKUMURA Takahiro"]
   spec.email         = ["hfm.garden@gmail.com"]
-  spec.description   = "TODO: Add a description"
-  spec.summary       = "TODO: Add a summary"
-  spec.homepage      = "TODO: Add a homepage"
+  spec.description   = "Display HTTP Status Code via Lita"
+  spec.summary       = "Display HTTP Status Code via Lita"
+  spec.homepage      = "https://github.com/hfm/lita-http_status"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
