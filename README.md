@@ -1,7 +1,7 @@
 # lita-http_status
 
 [![Build Status](https://travis-ci.org/hfm/lita-http_status.png?branch=master)](https://travis-ci.org/hfm/lita-http_status)
-[![Coverage Status](https://coveralls.io/repos/hfm/lita-http_status/badge.png)](https://coveralls.io/r/hfm/lita-http_status)
+[![Coverage Status](https://coveralls.io/repos/github/hfm/lita-http_status/badge.svg?branch=master)](https://coveralls.io/github/hfm/lita-http_status?branch=master)
 
 TODO: Add a description of the plugin.
 
